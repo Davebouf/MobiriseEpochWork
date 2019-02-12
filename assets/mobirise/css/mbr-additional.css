@@ -2681,7 +2681,7 @@ body {
   }
 }
 .cid-rhTHxnxR3l {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #0f7699;
 }
 .cid-rhTHxnxR3l .form-container {
   transition: all .2s;
@@ -2730,88 +2730,27 @@ body {
     text-align: center;
   }
 }
-.cid-rhTYSBR4a8 {
+.cid-rhUlTLbaXK {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-rhTYSBR4a8 .line {
   background-color: #ffffff;
-  color: #ffffff;
+}
+.cid-rhUlTLbaXK .line {
+  background-color: #149dcc;
+  color: #149dcc;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
-.cid-rhTYSBR4a8 .section-text {
+.cid-rhUlTLbaXK .section-text {
   padding: 2rem 0;
 }
-.cid-rhTYSBR4a8 .inner-container {
+.cid-rhUlTLbaXK .inner-container {
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-rhTYSBR4a8 .inner-container {
+  .cid-rhUlTLbaXK .inner-container {
     width: 100% !important;
-  }
-}
-.cid-rhTYSBR4a8 .section-text DIV {
-  color: #55b4d4;
-}
-.cid-rhTYDnTmaN {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rhTYDnTmaN .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rhTYDnTmaN .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-rhTYDnTmaN .mbr-text {
-  color: #767676;
-}
-.cid-rhTYDnTmaN .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-rhTYDnTmaN .mbr-author-name {
-  color: #767676;
-}
-.cid-rhTYDnTmaN .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-rhTYDnTmaN .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-rhTYDnTmaN .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rhTYDnTmaN .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rhTYDnTmaN .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-rhTYDnTmaN .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
   }
 }
 .cid-rhTY4q4tt5 {
