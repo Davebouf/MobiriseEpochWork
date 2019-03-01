@@ -2909,12 +2909,12 @@ body {
   }
 }
 .cid-rizW4HBk7Q {
-  background-image: url("../../../assets/images/dean-pic-960x960.jpg");
+  background-image: url("../../../assets/images/istock-group-circle-1254x837.jpg");
 }
 .cid-riA9beh5a4 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #ffffff;
 }
 .cid-riA9beh5a4 P {
   color: #149dcc;
@@ -3457,8 +3457,8 @@ body {
   flex-direction: row-reverse;
 }
 .cid-rhCzku8KF0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 135px;
+  padding-bottom: 135px;
   background-color: #ffffff;
 }
 .cid-rhCzku8KF0 h2 {
@@ -3474,8 +3474,8 @@ body {
   margin-bottom: 0;
 }
 .cid-rhCzku8KF0 .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #ffffff;
+  border-top: 1px solid #ffffff;
+  background-color: #55b4d4;
   position: relative;
   justify-content: unset;
 }
@@ -3499,6 +3499,9 @@ body {
     text-align: center;
     margin: 1rem 0 0 0;
   }
+}
+.cid-rhCzku8KF0 P {
+  color: #232323;
 }
 .cid-rhCzkvEveP {
   padding-top: 90px;
