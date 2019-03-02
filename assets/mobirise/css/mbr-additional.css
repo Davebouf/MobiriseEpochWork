@@ -1760,7 +1760,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #ffffff !important;
+  color: #55b4d4 !important;
 }
 .cid-rhqJtAuO6B {
   background-image: url("../../../assets/images/dean-pic-960x960.jpg");
@@ -2626,7 +2626,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #ffffff !important;
+  color: #55b4d4 !important;
 }
 .cid-rjycjMTZxL {
   background-image: url("../../../assets/images/istock-group-circle-1254x837.jpg");
@@ -2708,10 +2708,10 @@ body {
 .cid-rhTY4q4tt5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #55b4d4;
 }
 .cid-rhTY4q4tt5 .form-text {
-  color: #767676;
+  color: #073b4c;
 }
 @media (max-width: 767px) {
   .cid-rhTY4q4tt5 .content {
@@ -2818,6 +2818,9 @@ body {
   .cid-rhTY4q4tt5 .mbr-text {
     text-align: center !important;
   }
+}
+.cid-rhTY4q4tt5 .copyright .mbr-text {
+  color: #073b4c;
 }
 .cid-rizW4HBk7Q {
   background-image: url("../../../assets/images/istock-group-circle-1254x837.jpg");
@@ -3233,7 +3236,7 @@ body {
 }
 .cid-rhCzkpJsxG .nav-link:hover,
 .cid-rhCzkpJsxG .dropdown-item:hover {
-  color: #ffffff !important;
+  color: #55b4d4 !important;
 }
 .cid-rhCzkryoF5 {
   background-image: url("../../../assets/images/background4.jpg");
