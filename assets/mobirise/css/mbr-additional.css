@@ -2763,24 +2763,6 @@ body {
 .cid-rnfIuDAcdS H4 {
   color: #232323;
 }
-.cid-rhCzksyAcy {
-  padding-top: 60px;
-  padding-bottom: 135px;
-  background-color: #ffffff;
-}
-.cid-rhCzksyAcy .mbr-text {
-  color: #232323;
-}
-.cid-rhCzksyAcy h4 {
-  text-align: center;
-}
-.cid-rhCzksyAcy p {
-  text-align: center;
-}
-.cid-rhCzksyAcy .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
 .cid-rkz4adW7Lk {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3241,8 +3223,23 @@ body {
     padding-top: 1.5rem !important;
   }
 }
-.cid-rhCzkr0uI0 {
-  background-image: url("../../../assets/images/depositphotos-63787985-xl-2015-2000x1331.jpg");
+.cid-rhCzksyAcy {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #ffffff;
+}
+.cid-rhCzksyAcy .mbr-text {
+  color: #232323;
+}
+.cid-rhCzksyAcy h4 {
+  text-align: center;
+}
+.cid-rhCzksyAcy p {
+  text-align: center;
+}
+.cid-rhCzksyAcy .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-rngfYrwbII {
   background-image: url("../../../assets/images/depositphotos-63787985-xl-2016-2000x1331.jpg");
