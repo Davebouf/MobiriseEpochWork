@@ -3285,6 +3285,39 @@ body {
 .cid-rhCzks42k8 H1 {
   text-align: center;
 }
+.cid-rngkPr6hhn {
+  background-image: url("../../../assets/images/garage-door-mn-001-2000x1331.jpg");
+}
+.cid-rngkPr6hhn .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+  background: linear-gradient(#ff7f9f, #55b4d4);
+  border: none;
+}
+.cid-rngkPr6hhn .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rngkPr6hhn .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-rngkPr6hhn H1 {
+  text-align: left;
+}
+.cid-rngkPr6hhn .mbr-text,
+.cid-rngkPr6hhn .mbr-section-btn {
+  text-align: left;
+}
+.cid-rngkPr6hhn SPAN {
+  color: #232323;
+}
+.cid-rngkPr6hhn .mbr-text,
+.cid-rngkPr6hhn .mbr-section-btn B {
+  color: #232323;
+}
 .cid-rhCzktoJRk {
   padding-top: 90px;
   padding-bottom: 105px;
