@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -35,7 +34,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -3285,38 +3284,16 @@ body {
 .cid-rhCzks42k8 H1 {
   text-align: center;
 }
-.cid-rngkPr6hhn {
-  background-image: url("../../../assets/images/garage-door-mn-001-2000x1331.jpg");
+.cid-rnW6J36S28 {
+  background: linear-gradient(45deg, #ffffff, #232323);
 }
-.cid-rngkPr6hhn .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#ff7f9f, #55b4d4);
-  border: none;
+.cid-rnW6J36S28 .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
-.cid-rngkPr6hhn .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-rngkPr6hhn .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-rngkPr6hhn H1 {
-  text-align: left;
-}
-.cid-rngkPr6hhn .mbr-text,
-.cid-rngkPr6hhn .mbr-section-btn {
-  text-align: left;
-}
-.cid-rngkPr6hhn SPAN {
-  color: #232323;
-}
-.cid-rngkPr6hhn .mbr-text,
-.cid-rngkPr6hhn .mbr-section-btn B {
-  color: #232323;
+.cid-rnW6J36S28 .mbr-text,
+.cid-rnW6J36S28 .mbr-section-btn B {
+  color: #ffffff;
 }
 .cid-rhCzktoJRk {
   padding-top: 90px;
