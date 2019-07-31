@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Roboto', sans-serif;
-  font-size: 0.4rem;
+  font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 0.64rem;
+  font-size: 2.88rem;
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.32rem;
-    font-size: calc( 0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -2720,15 +2720,21 @@ body {
 .cid-rizW4HBk7Q {
   background-image: url("../../../assets/images/depositphotos-167271088-ds-2000x1500.jpg");
 }
-.cid-roIXIBWpsv {
+.cid-rxPQY60ajH {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #232323;
 }
-.cid-roIXIBWpsv .mbr-section-subtitle {
-  color: #ffffff;
+.cid-rxPQY60ajH .counter-container {
+  color: #767676;
 }
-.cid-roIXIBWpsv H2 {
+.cid-rxPQY60ajH .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rxPQY60ajH .counter-container ul li {
+  margin-bottom: 1rem;
+}
+.cid-rxPQY60ajH .mbr-text UL {
   color: #ffffff;
 }
 .cid-rxM38j2HAu {
