@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Roboto', sans-serif;
-  font-size: 2rem;
+  font-size: 0.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 0.64rem;
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.32rem;
+    font-size: calc( 0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1676,7 +1676,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #55b4d4 !important;
+  color: #006c77 !important;
 }
 .cid-rhqJtAuO6B {
   background-image: url("../../../assets/images/dean-pic-960x960.jpg");
@@ -2542,7 +2542,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #55b4d4 !important;
+  color: #006c77 !important;
 }
 .cid-rn4sQv4BCf {
   background-image: url("../../../assets/images/depositphotos-167271088-ds-2000x1500.jpg");
@@ -3227,7 +3227,7 @@ body {
 }
 .cid-rhCzkpJsxG .nav-link:hover,
 .cid-rhCzkpJsxG .dropdown-item:hover {
-  color: #55b4d4 !important;
+  color: #006c77 !important;
 }
 .cid-rkz4cu3Ltd {
   padding-top: 30px;
@@ -3744,12 +3744,4 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-rxMz7wlF4m {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rxMz7wlF4m .mbr-section-subtitle {
-  color: #767676;
 }
